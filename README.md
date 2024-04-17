@@ -1,8 +1,8 @@
-# Muhammad All
+# Heeey there!
 
 ## Data Scientist
 
-Hi there, I'm Muhammad All, a data scientist with experience in various projects. I have a strong background in machine learning, computer vision, and natural language processing.
+I'm Muhammad Ali Miran, a data scientist with experience in various projects. I have a strong background in machine learning, computer vision, and natural language processing.
 
 ### Projects
 
