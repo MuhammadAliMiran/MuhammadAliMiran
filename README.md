@@ -2,7 +2,7 @@
 
 ## Data Scientist
 
-I'm Muhammad Ali Miran, a data scientist with experience in various projects. I have a strong background in machine learning, computer vision, and natural language processing.
+I'm Muhammad Ali Miran, a data scientist with experience in various projects. I have a strong background in machine learning, deep learning, LLM's, computer vision, NLP, etc.
 
 ### Projects
 
